@@ -1,7 +1,6 @@
 # Speech-and-Emotion-Recognition-
 Used LSTM and MFCC on RAVDESS dataset for emotion classification 
 
-✅ Step-by-Step: Create a GitHub Repo and Push Code
 1. Initialize Git Repo Locally
 Open a terminal in your project directory and run:
 
